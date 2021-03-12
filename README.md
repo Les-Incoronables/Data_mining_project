@@ -1,3 +1,5 @@
+#Classification et prédiction du diabète et du pré-diabète
+
 Il existe de nombreuses définitions du Datamining. On le prend comme signifiant l'application d'algorithmes d'apprentissage et de méthodes statistiques à des ensembles de données du monde réel. 
 
 Le Datamining est le processus de sélection, d'exploration et de modélisation de grandes quantités de données afin de découvrir des modèles ou des relations inconnus qui fournissent un résultat clair et utile à l'analyste de données. Inventé au milieu des années 1990, le terme « Data mining » est aujourd'hui devenu synonyme de « découverte de connaissances dans les bases de données » qui, comme proposé par Fayyad et al., a mis l'accent sur le processus d'analyse des données plutôt que sur l'utilisation de méthodes d'analyse spécifiques. 
