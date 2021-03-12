@@ -1,4 +1,4 @@
-#Classification et prédiction du diabète et du pré-diabète
+# Classification et prédiction du diabète et du pré-diabète #
 
 Il existe de nombreuses définitions du Datamining. On le prend comme signifiant l'application d'algorithmes d'apprentissage et de méthodes statistiques à des ensembles de données du monde réel. 
 
